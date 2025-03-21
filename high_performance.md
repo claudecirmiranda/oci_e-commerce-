@@ -99,3 +99,5 @@ Potenciais Otimizações de Custo na OCI
 4.  **Autoscaling**: Configuração para escalar recursos automaticamente baseado em demanda
 5.  **Always Free Services**: Utilização de serviços gratuitos da OCI onde viável
 6.  **Storage Tiering**: Implementação de políticas para dados acessados com menos frequência
+
+![image](https://github.com/user-attachments/assets/7fe6bba7-fd61-46cb-9374-323c2a44c89b)
